@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+/* Kustomisasi Tambahan untuk Tema Kranggan Center (Opsional) */
+@layer base {
+  html {
+    scroll-behavior: smooth; /* Membuat efek transisi halus saat tombol 'Janji Temu' diklik */
+  }
+}
+
+/* Anda bisa menambahkan utility CSS kustom di bawah ini jika diperlukan */
